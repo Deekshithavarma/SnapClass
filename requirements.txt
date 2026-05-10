@@ -11,7 +11,7 @@ setuptools<70.0.0
 face-recognition
 
 # Backend
-supabase
+supabase==2.15.3
 bcrypt
 
 # Utils
